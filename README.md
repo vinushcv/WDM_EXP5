@@ -112,10 +112,14 @@ if __name__ == "__main__":
     print(f"Results for '{query1}': {indexer.boolean_search(query1)}")
 ```
 ### Output:
-
+### Information and programming:
 ![image](https://github.com/user-attachments/assets/8c400595-25fa-4ed2-8c8a-1db9b058c97a)
 
-![image](https://github.com/user-attachments/assets/aba4aae4-0f70-4d33-ad17-ba3531274952)
+### Information or programming:
+![image](https://github.com/user-attachments/assets/b305bfc0-6e94-48f2-afd9-d4f766369b48)
+
+### not programming:
+![image](https://github.com/user-attachments/assets/d28409a3-ebd6-4626-9904-d22a0ada56cb)
 
 
 ### Result:
